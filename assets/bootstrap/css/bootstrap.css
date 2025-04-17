@@ -455,7 +455,8 @@ h3,
 }
 h4,
 .h4 {
-  font-size: 18px;
+  font-size: 25px;
+  font-family: 'Squares Bold', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h5,
 .h5 {
